@@ -1,0 +1,52 @@
+.ang{
+   text-align: center;
+   margin-top: 5%;
+   line-height: 2px;
+}
+.ang>h1{
+font-size:350%;
+font-family:'Times New Roman', Times, serif;
+font-weight: normal;
+
+}
+.ang>h2{
+    letter-spacing:5px;
+    font-family:cursive;
+    font-weight: normal;
+}
+.ang>h3{
+    font-size:150%;
+    font-weight: normal;
+}
+.bar a{
+text-decoration: none;
+
+}
+li{
+    display: inline;
+}
+ul{
+   width: 570px;
+  padding: 15px;
+  margin: 0px auto 0px auto;
+  border-top: 2px solid #000;
+  border-bottom: 1px solid #000;
+  text-align: center;
+}
+li a{
+    padding-left: 20px;
+    color: #000;
+    font-weight: bold;
+}
+a:hover{
+    color: brown;
+    cursor:pointer;
+}
+p{
+    text-align: center;
+    font-weight: normal;
+}
+
+
+   
+
